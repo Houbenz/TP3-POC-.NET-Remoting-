@@ -1,0 +1,8 @@
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\obj\Debug\ClientReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\bin\Debug\ClientReceiver.exe.config
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\bin\Debug\ClientReceiver.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\bin\Debug\ClientReceiver.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\bin\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\bin\Debug\ClassLibrary1.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\obj\Debug\ClientReceiver.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientReceiver\obj\Debug\ClientReceiver.pdb

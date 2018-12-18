@@ -1,0 +1,8 @@
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\bin\Debug\Serveur.exe.config
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\bin\Debug\Serveur.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\bin\Debug\Serveur.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\bin\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\bin\Debug\ClassLibrary1.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\obj\Debug\Serveur.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Serveur\obj\Debug\Serveur.pdb

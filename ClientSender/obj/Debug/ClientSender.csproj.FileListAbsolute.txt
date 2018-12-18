@@ -1,0 +1,8 @@
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Debug\ClientSender.exe.config
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Debug\ClientSender.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Debug\ClientSender.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Debug\ClassLibrary1.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\obj\Debug\ClientSender.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\obj\Debug\ClientSender.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClientSender\obj\Debug\ClientSender.csprojResolveAssemblyReference.cache

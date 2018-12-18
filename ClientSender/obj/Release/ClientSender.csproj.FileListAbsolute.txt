@@ -1,0 +1,8 @@
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Release\ClientSender.exe.config
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Release\ClientSender.exe
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Release\ClientSender.pdb
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Release\ClassLibrary1.dll
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\bin\Release\ClassLibrary1.pdb
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\obj\Release\ClientSender.csprojResolveAssemblyReference.cache
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\obj\Release\ClientSender.exe
+C:\Users\Houbenz\documents\visual studio 2015\Projects\ConsoleApplication1\ClientSender\obj\Release\ClientSender.pdb
